@@ -1,6 +1,7 @@
 
   var Actors= [
     {
+      "id":1,
       "name": "Tom Cruise",
       "age": 56,
       "Born At": "Syracuse, NY",
@@ -8,6 +9,7 @@
       "photo": "https://jsonformatter.org/img/tom-cruise.jpg"
     },
     {
+      "id":2,
       "name": "Robert Downey Jr.",
       "age": 53,
       "Born At": "New York City, NY",
