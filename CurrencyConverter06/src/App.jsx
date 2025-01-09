@@ -1,13 +1,21 @@
 import { useState } from 'react'
 
-import './App.css'
+
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1 className='text-4xl'>Currency Converter App</h1>
+      <div
+            className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
+            style={{
+                backgroundImage: `url('images/currency.jpg')`,
+            }}
+        >
+            
+
+          </div>
     </>
   )
 }
